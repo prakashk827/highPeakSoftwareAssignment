@@ -1,0 +1,8 @@
+Dear Sir/Madam 
+I faced following challenges.
+
+1.I stuck with generating Unique Random Number.
+2.I tried to do not read blank lines in sample_input files but I could not.
+
+
+
